@@ -7,7 +7,7 @@ plugins {
 
 subprojects {
     repositories {
-        mavenLocal()
+//        mavenLocal()
         maven {
             name = "FTB"
             url = "https://maven.ftb.dev/releases"
